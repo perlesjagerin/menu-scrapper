@@ -1,0 +1,17 @@
+/Users/tuan/Projects/MenuScrapper/obj/Debug/net7.0/MenuScrapper.csproj.AssemblyReference.cache
+/Users/tuan/Projects/MenuScrapper/obj/Debug/net7.0/MenuScrapper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuan/Projects/MenuScrapper/obj/Debug/net7.0/MenuScrapper.AssemblyInfoInputs.cache
+/Users/tuan/Projects/MenuScrapper/obj/Debug/net7.0/MenuScrapper.AssemblyInfo.cs
+/Users/tuan/Projects/MenuScrapper/obj/Debug/net7.0/MenuScrapper.csproj.CoreCompileInputs.cache
+/Users/tuan/Projects/MenuScrapper/bin/Debug/net7.0/MenuScrapper
+/Users/tuan/Projects/MenuScrapper/bin/Debug/net7.0/MenuScrapper.deps.json
+/Users/tuan/Projects/MenuScrapper/bin/Debug/net7.0/MenuScrapper.runtimeconfig.json
+/Users/tuan/Projects/MenuScrapper/bin/Debug/net7.0/MenuScrapper.dll
+/Users/tuan/Projects/MenuScrapper/bin/Debug/net7.0/MenuScrapper.pdb
+/Users/tuan/Projects/MenuScrapper/bin/Debug/net7.0/HtmlAgilityPack.dll
+/Users/tuan/Projects/MenuScrapper/obj/Debug/net7.0/MenuScrapper.csproj.CopyComplete
+/Users/tuan/Projects/MenuScrapper/obj/Debug/net7.0/MenuScrapper.dll
+/Users/tuan/Projects/MenuScrapper/obj/Debug/net7.0/refint/MenuScrapper.dll
+/Users/tuan/Projects/MenuScrapper/obj/Debug/net7.0/MenuScrapper.pdb
+/Users/tuan/Projects/MenuScrapper/obj/Debug/net7.0/MenuScrapper.genruntimeconfig.cache
+/Users/tuan/Projects/MenuScrapper/obj/Debug/net7.0/ref/MenuScrapper.dll
